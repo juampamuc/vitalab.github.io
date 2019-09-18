@@ -13,9 +13,11 @@ tags:
 - brain
 - caption
 - cardiac
+- catastrophic-forgetting
 - classification
 - CNN
 - codebook
+- continual-learning
 - course
 - ct-scan
 - data-augmentation
